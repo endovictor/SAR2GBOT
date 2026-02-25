@@ -1,6 +1,10 @@
 {
-  "victor.endo": {
-    "senha": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
-    "cargo": "admin"
+  "usuarios": {
+    "victor.endo": {
+      "senha": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "nivel": "admin",
+      "nome": "Victor Endo",
+      "criado_em": "2026-02-25 14:00:00"
+    }
   }
 }
